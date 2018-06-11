@@ -1,0 +1,2 @@
+# hellomyfriends
+Just another repository
